@@ -42,23 +42,12 @@ This system is ideal for institutions or organizations looking to centralize and
     - In MySQL Workbench:
       - Go to `File > Open SQL Script`, and select `answers.sql`.
       - Execute the script to create all tables.
-    - Or via CLI:
-      ```bash
-      mysql -u your_user -p club_management < answers.sql
-      ```
-
 ---
 
 ## 🧩 Entity Relationship Diagram (ERD)
 
-![ERD Screenshot](https://i.imgur.com/your-erd-image.png)
-
-> 📌 *If you're using a tool like dbdiagram.io or MySQL Workbench, you can export and upload the ERD as an image or provide a public link.*
-
-Alternatively, view the ERD online:
-[View ERD](https://dbdiagram.io/d/your-diagram-link)
+View the ERD online:
+[View ERD](https://dbdiagram.io/d/6822c7f25b2fc4582f515246)
 
 ---
-
-## 📁 File Structure
 
