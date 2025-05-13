@@ -27,7 +27,7 @@ This system is ideal for institutions or organizations looking to centralize and
 
 1. **Clone the repository** or download the `.sql` file:
     ```
-    https://github.com/koscark/answers.sql
+    https://github.com/koscark/Database-Week-8-Assignment/blob/main/answers.sql
     ```
 
 2. **Open MySQL Workbench** or connect to your MySQL server via CLI.
